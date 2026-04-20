@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260420200653EO17SW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260420200653COD0Q3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SALVAR DOÑANA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>PRUEBA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Vivimos en el ecosistema de Doñana. Para su cuidado y preservación debemos adoptar aptitudes de respeto hacia los seres vivos que lo integran y adquirir  conciencia medioambiental. Difundir todo lo que aprendamos a otras personas de nuestro contexto, nos va a permitir trabajar de forma conjunta en pro de la preservación del planeta. Esta SDA está vinculada a los ODS 13 (acción climática) y 15 (vida terrestre). </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776708284573</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-dyo28e9mp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡EMPEZAMOS!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡EMPEZAMOS!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-dyo28e9mp</odePageId>
+      <odeBlockId>block-mo7i7ib5-pdslwfz35</odeBlockId>
+      <blockName>CONSTRUYENDO NUESTRA SDA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-dyo28e9mp</odePageId>
+          <odeBlockId>block-mo7i7ib5-pdslwfz35</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib5-9j6sj78u6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/LINCE.jpg" alt="Lince Ibérico en entorno Doñana" title="Lince Ibérico" width="255" height="170" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">En el siguiente enlace, incluimos una breve presentación de la SDA 3 que lleva por título SALVAR DOÑANA. Te pedimos que, en grupo cooperativo, leas y realices las reflexiones y aportaciones que se indican en dicho enlace. Deberás anotar todas las ideas en tu cuaderno para después ponerlas en común en gran grupo.                          ¡Ánimo! ¡Tu voz importa!</span></p>
+<p><a href="https://view.genially.com/675c6a9ef5a278d69ee98c64/guide-exe-learning-sda-4-salvar-donana" title="SDA 3 SALVAR DOÑANA">https://view.genially.com/675c6a9ef5a278d69ee98c64/guide-exe-learning-sda-4-salvar-donana</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/LINCE.jpg\" alt=\"Lince Ibérico en entorno Doñana\" title=\"Lince Ibérico\" width=\"255\" height=\"170\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">En el siguiente enlace, incluimos una breve presentación de la SDA 3 que lleva por título SALVAR DOÑANA. Te pedimos que, en grupo cooperativo, leas y realices las reflexiones y aportaciones que se indican en dicho enlace. Deberás anotar todas las ideas en tu cuaderno para después ponerlas en común en gran grupo.                          ¡Ánimo! ¡Tu voz importa!</span></p>\n<p><a href=\"https://view.genially.com/675c6a9ef5a278d69ee98c64/guide-exe-learning-sda-4-salvar-donana\" title=\"SDA 3 SALVAR DOÑANA\">https://view.genially.com/675c6a9ef5a278d69ee98c64/guide-exe-learning-sda-4-salvar-donana</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-dyo28e9mp</odePageId>
+      <odeBlockId>block-mo7i7ib6-c1lmt378l</odeBlockId>
+      <blockName>TEMPORALIZANDO LAS TAREAS</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-dyo28e9mp</odePageId>
+          <odeBlockId>block-mo7i7ib6-c1lmt378l</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-swbjidi47</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/CAMINO_DONANA.jpg" alt="Camino de madera hacia las playas de Doñana" title="Camino Doñana" width="290" height="187" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">A continuación, os dejamos un enlace que os llevará a una temporalización de algunas de las tareas que deberéis llevar a cabo a lo largo de esta SDA y que están principalmente vinculadas al área de Conocimiento del Medio.            Os pedimos que, en grupos cooperativos, analicéis dichas tareas y evaluéis su grado de dificultad. Asimismo, sería interesante que realizarais una o dos propuestas por grupo para mejorar las tareas. </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">    ¡Gracias por vuestra participación!</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.tiki-toki.com/timeline/entry/2128780/OPERACIN-DOANA/" title="Temporalización de las tareas">https://www.tiki-toki.com/timeline/entry/2128780/OPERACIN-DOANA/</a>                                     </span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/CAMINO_DONANA.jpg\" alt=\"Camino de madera hacia las playas de Doñana\" title=\"Camino Doñana\" width=\"290\" height=\"187\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">A continuación, os dejamos un enlace que os llevará a una temporalización de algunas de las tareas que deberéis llevar a cabo a lo largo de esta SDA y que están principalmente vinculadas al área de Conocimiento del Medio.            Os pedimos que, en grupos cooperativos, analicéis dichas tareas y evaluéis su grado de dificultad. Asimismo, sería interesante que realizarais una o dos propuestas por grupo para mejorar las tareas. </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">    ¡Gracias por vuestra participación!</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://www.tiki-toki.com/timeline/entry/2128780/OPERACIN-DOANA/\" title=\"Temporalización de las tareas\">https://www.tiki-toki.com/timeline/entry/2128780/OPERACIN-DOANA/</a>                                     </span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-ivbwrxzit</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 1: INVESTIGA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1: INVESTIGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-ivbwrxzit</odePageId>
+      <odeBlockId>block-mo7i7ib6-0ms1ejehn</odeBlockId>
+      <blockName>FAUNA Y FLORA EN DOÑANA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-ivbwrxzit</odePageId>
+          <odeBlockId>block-mo7i7ib6-0ms1ejehn</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-y7vi43zv1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/CAMALEON.jpg" alt="Camaleón en una rama." title="Camaleón" width="318" height="212" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Individualmente, busca en la web animales que pueblan el entorno de Doñana y cuáles de ellos se encuentran, actualmente, en peligro de extinción. Realiza la misma acción con la vegetación.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Recoge la información en tu cuaderno para hacer una puesta en común en gran grupo o en grupos cooperativos.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Aquí te dejamos algunos enlaces sobre animales en Doñana que esperamos que te gusten.</span></p>
+<p><a href="https://www.youtube.com/watch?v=WbZLo_QOouk" title="Las aves de Doñana">https://www.youtube.com/watch?v=WbZLo_QOouk</a></p>
+<p><a href="https://www.youtube.com/watch?v=qXycq1XViXs" title="Curiosidades de Doñana">https://www.youtube.com/watch?v=qXycq1XViXs</a></p>
+<p></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/CAMALEON.jpg\" alt=\"Camaleón en una rama.\" title=\"Camaleón\" width=\"318\" height=\"212\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Individualmente, busca en la web animales que pueblan el entorno de Doñana y cuáles de ellos se encuentran, actualmente, en peligro de extinción. Realiza la misma acción con la vegetación.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Recoge la información en tu cuaderno para hacer una puesta en común en gran grupo o en grupos cooperativos.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Aquí te dejamos algunos enlaces sobre animales en Doñana que esperamos que te gusten.</span></p>\n<p><a href=\"https://www.youtube.com/watch?v=WbZLo_QOouk\" title=\"Las aves de Doñana\">https://www.youtube.com/watch?v=WbZLo_QOouk</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=qXycq1XViXs\" title=\"Curiosidades de Doñana\">https://www.youtube.com/watch?v=qXycq1XViXs</a></p>\n<p></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-ivbwrxzit</odePageId>
+      <odeBlockId>block-mo7i7ib6-grhy99of2</odeBlockId>
+      <blockName>LOS CAMBIOS DEL ECOSISTEMA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-ivbwrxzit</odePageId>
+          <odeBlockId>block-mo7i7ib6-grhy99of2</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-kzx7yot5d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/SEQUIA.jpg" alt="Terreno afectado por la falta de agua" title="Sequía" width="313" height="209" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">En grupo cooperativo, buscad información en la web en la que se visualicen los cambios en el ecosistema de Doñana en los últimos años. Podéis serviros de enlaces como el del ejemplo:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.rtve.es/noticias/20241205/donana-declive-lagunas-impacta-aves-toda-europa/16357298.shtml" title="El declive de Doñana">https://www.rtve.es/noticias/20241205/donana-declive-lagunas-impacta-aves-toda-europa/16357298.shtml</a></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/SEQUIA.jpg\" alt=\"Terreno afectado por la falta de agua\" title=\"Sequía\" width=\"313\" height=\"209\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">En grupo cooperativo, buscad información en la web en la que se visualicen los cambios en el ecosistema de Doñana en los últimos años. Podéis serviros de enlaces como el del ejemplo:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://www.rtve.es/noticias/20241205/donana-declive-lagunas-impacta-aves-toda-europa/16357298.shtml\" title=\"El declive de Doñana\">https://www.rtve.es/noticias/20241205/donana-declive-lagunas-impacta-aves-toda-europa/16357298.shtml</a></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-9i8z1x9k0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 2: REFLEXIONA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2: REFLEXIONA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-9i8z1x9k0</odePageId>
+      <odeBlockId>block-mo7i7ib6-yx9p07phu</odeBlockId>
+      <blockName>ACCIONES HUMANAS</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-9i8z1x9k0</odePageId>
+          <odeBlockId>block-mo7i7ib6-yx9p07phu</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-ti1wjmzqe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/ZORRO.jpg" alt="Zorro rojizo" title="Zorro" width="334" height="223" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">En grupo cooperativo, elegid una de las fuentes de información encontradas en la Sesión 1 y reflexionad sobre las consecuencias para los seres vivos a corto-medio plazo. Puede ser de ayuda responder a las siguientes preguntas: </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">1.- ¿Cómo creéis que era Doñana hace algunos años? </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">2.- ¿Por qué se ha deteriorado en los últimos tiempos? </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">3.- ¿Se podría revertir la situación? (En caso afirmativo, indicad cómo)</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">4.-¿Cómo te sientes después de la lectura y reflexión?</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/ZORRO.jpg\" alt=\"Zorro rojizo\" title=\"Zorro\" width=\"334\" height=\"223\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">En grupo cooperativo, elegid una de las fuentes de información encontradas en la Sesión 1 y reflexionad sobre las consecuencias para los seres vivos a corto-medio plazo. Puede ser de ayuda responder a las siguientes preguntas: </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">1.- ¿Cómo creéis que era Doñana hace algunos años? </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">2.- ¿Por qué se ha deteriorado en los últimos tiempos? </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">3.- ¿Se podría revertir la situación? (En caso afirmativo, indicad cómo)</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">4.-¿Cómo te sientes después de la lectura y reflexión?</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-z6wcx74eu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 3: INVENTA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3: INVENTA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-z6wcx74eu</odePageId>
+      <odeBlockId>block-mo7i7ib6-f2rm9mlmj</odeBlockId>
+      <blockName>DOÑANA SE EXTINGUE</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-z6wcx74eu</odePageId>
+          <odeBlockId>block-mo7i7ib6-f2rm9mlmj</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-4s57jqij5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/donana_se_extingue.jpg" alt="Cartelería SEO Doñana" title="Doñana se extingue" width="298" height="298" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">En grupo cooperativo, crea una campaña de concienciación para la comunidad educativa (modo cartelería), en la que aparezcan: título de la campaña, un lema o frase significativa y algún dato que haga referencia a la situación actual de los seres vivos en Doñana. Estos carteles se expondrán en lugares comunes de nuestro colegio para visibilizar la necesidad de proteger nuestro parque natural. Podéis tomar ejemplo de las campañas de se presentan en este enlace:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.eldiario.es/ballenablanca/biodiversidad/carteles-futuro-donana-parques-nacionales_1_9298868.html" title="Cartelería">https://www.eldiario.es/ballenablanca/biodiversidad/carteles-futuro-donana-parques-nacionales_1_9298868.html</a></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/donana_se_extingue.jpg\" alt=\"Cartelería SEO Doñana\" title=\"Doñana se extingue\" width=\"298\" height=\"298\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">En grupo cooperativo, crea una campaña de concienciación para la comunidad educativa (modo cartelería), en la que aparezcan: título de la campaña, un lema o frase significativa y algún dato que haga referencia a la situación actual de los seres vivos en Doñana. Estos carteles se expondrán en lugares comunes de nuestro colegio para visibilizar la necesidad de proteger nuestro parque natural. Podéis tomar ejemplo de las campañas de se presentan en este enlace:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://www.eldiario.es/ballenablanca/biodiversidad/carteles-futuro-donana-parques-nacionales_1_9298868.html\" title=\"Cartelería\">https://www.eldiario.es/ballenablanca/biodiversidad/carteles-futuro-donana-parques-nacionales_1_9298868.html</a></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-8a0hbg1jn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 4: DIFUNDE</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4: DIFUNDE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-8a0hbg1jn</odePageId>
+      <odeBlockId>block-mo7i7ib6-u0y82ynbb</odeBlockId>
+      <blockName>CÓMO COMPARTIMOS LA INFORMACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-8a0hbg1jn</odePageId>
+          <odeBlockId>block-mo7i7ib6-u0y82ynbb</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-jobiq6rgp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/DIFUSION.jpg" alt="Logotipos canales de comunicación" title="Canales de comunicación" width="390" height="260" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">De forma individual, piensa en diferentes posibilidades para la difusión de la información recabada en sesiones anteriores. Anótalas en tu cuaderno y di por qué tendría que ser tu propuesta la aceptada.  Haremos una puesta en común en gran grupo y una selección y votación entre todas las opciones presentadas.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¿Cómo harías llegar esta importante información al mayor número de personas posible?</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/DIFUSION.jpg\" alt=\"Logotipos canales de comunicación\" title=\"Canales de comunicación\" width=\"390\" height=\"260\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">De forma individual, piensa en diferentes posibilidades para la difusión de la información recabada en sesiones anteriores. Anótalas en tu cuaderno y di por qué tendría que ser tu propuesta la aceptada.  Haremos una puesta en común en gran grupo y una selección y votación entre todas las opciones presentadas.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¿Cómo harías llegar esta importante información al mayor número de personas posible?</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-9o65xnt7y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 5: EVALÚA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5: EVALÚA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-9o65xnt7y</odePageId>
+      <odeBlockId>block-mo7i7ib6-l2lwi598u</odeBlockId>
+      <blockName>VALORANDO LO APRENDIDO</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-9o65xnt7y</odePageId>
+          <odeBlockId>block-mo7i7ib6-l2lwi598u</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-or7js2zl0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/EVALUACION.jpg" alt="Emoticonos que muestran el grado de satisfacción o desagrado" title="Evaluación" width="317" height="211" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">En grupo cooperativo, valorad: </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">1.- La credibilidad y calidad de la información seleccionada. </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">2.- Si las medidas planteadas para la conservación del ecosistema son posibles de llevarse a cabo. </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">3.- Si la información ha llegado a la comunidad educativa. </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">4.- Si esta actividad os ha servido y la consideráis útil.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Escribid las conclusiones en el cuaderno para compartirlas en gran grupo.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/EVALUACION.jpg\" alt=\"Emoticonos que muestran el grado de satisfacción o desagrado\" title=\"Evaluación\" width=\"317\" height=\"211\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">En grupo cooperativo, valorad: </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">1.- La credibilidad y calidad de la información seleccionada. </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">2.- Si las medidas planteadas para la conservación del ecosistema son posibles de llevarse a cabo. </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">3.- Si la información ha llegado a la comunidad educativa. </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">4.- Si esta actividad os ha servido y la consideráis útil.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Escribid las conclusiones en el cuaderno para compartirlas en gran grupo.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TAREA FINAL</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+      <odeBlockId>block-mo7i7ib6-56nxg0t9g</odeBlockId>
+      <blockName>RESUMIENDO...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+          <odeBlockId>block-mo7i7ib6-56nxg0t9g</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-jwjwffs81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/PAJARO.jpg" alt="Pájaro sostenido en las manos" title="Pájaro" width="461" height="338" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Durante esta situación de aprendizaje, entre otros muchos aspectos, hemos aprendido sobre la fauna y la flora autóctona del Parque Natural de Doñana. Sabemos que existen seres vivos que se encuentran en peligro de extinción debido fundamentalmente a los cambios en su ecosistema natural en el que la acción humana ha tenido mucho que ver con su deterioro. Creemos que después de la toma de conciencia que has experimentado en esta SDA, vas a estar más en contacto con el entorno en el que vives y con la madre tierra. Te pedimos que no olvides nunca lo que has aprendido y que lo pongas en práctica en la medida de lo posible. Si cada uno y cada una de nosotros ponemos nuestro granito de arena podemos hacer de este mundo un lugar mejor y de Doñana un entorno más verde, más recuperado y más amable para las especies que lo habitan.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/PAJARO.jpg\" alt=\"Pájaro sostenido en las manos\" title=\"Pájaro\" width=\"461\" height=\"338\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Durante esta situación de aprendizaje, entre otros muchos aspectos, hemos aprendido sobre la fauna y la flora autóctona del Parque Natural de Doñana. Sabemos que existen seres vivos que se encuentran en peligro de extinción debido fundamentalmente a los cambios en su ecosistema natural en el que la acción humana ha tenido mucho que ver con su deterioro. Creemos que después de la toma de conciencia que has experimentado en esta SDA, vas a estar más en contacto con el entorno en el que vives y con la madre tierra. Te pedimos que no olvides nunca lo que has aprendido y que lo pongas en práctica en la medida de lo posible. Si cada uno y cada una de nosotros ponemos nuestro granito de arena podemos hacer de este mundo un lugar mejor y de Doñana un entorno más verde, más recuperado y más amable para las especies que lo habitan.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+      <odeBlockId>block-mo7i7ib6-9g8v13kk8</odeBlockId>
+      <blockName>ESQUEMATIZANDO</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+          <odeBlockId>block-mo7i7ib6-9g8v13kk8</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-fya5e2l6y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"><img src="{{context_path}}/content/resources/MAPA_CONCEPTUAL_I.png" alt="" width="242" height="178" /><img src="{{context_path}}/content/resources/MAPA_CONCEPTUAL_II.png" alt="" width="235" height="177" /><img src="{{context_path}}/content/resources/MAPA_CONCEPTUAL.png" alt="" width="239" height="177" /></p>
+<p style="text-align: right;"><span style="font-size: 8pt; font-family: 'comic sans ms', sans-serif;">Plantillas extraídas de la aplicación Canvas.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Ya estamos a punto de finalizar. Te pedimos que elabores un pequeño resumen, mapa conceptual o esquema en el que recojas las ideas más importantes de esta SDA. </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Puedes elaborarlo individualmente, con un compañero o compañera o con tu grupo cooperativo. Puedes hacerlo en papel o ayudándote de Canvas. </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¡Ánimo!</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/MAPA_CONCEPTUAL_I.png\" alt=\"\" width=\"242\" height=\"178\" /><img src=\"{{context_path}}/content/resources/MAPA_CONCEPTUAL_II.png\" alt=\"\" width=\"235\" height=\"177\" /><img src=\"{{context_path}}/content/resources/MAPA_CONCEPTUAL.png\" alt=\"\" width=\"239\" height=\"177\" /></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 8pt; font-family: 'comic sans ms', sans-serif;\">Plantillas extraídas de la aplicación Canvas.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Ya estamos a punto de finalizar. Te pedimos que elabores un pequeño resumen, mapa conceptual o esquema en el que recojas las ideas más importantes de esta SDA. </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Puedes elaborarlo individualmente, con un compañero o compañera o con tu grupo cooperativo. Puedes hacerlo en papel o ayudándote de Canvas. </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Ánimo!</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+      <odeBlockId>block-mo7i7ib6-0dx9s5hj7</odeBlockId>
+      <blockName>TAREA FINAL</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-djoz3ww6e</odePageId>
+          <odeBlockId>block-mo7i7ib6-0dx9s5hj7</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-1oiacmnwk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/canva.jpg" alt="Canva" title="Canva" width="210" height="210" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Querido alumnado:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Ya estamos llegando al final de nuestro trabajo sobre el entorno Doñana por eso vamos a pedirte un último esfuerzo...¿estás preparado/a?</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> ¡Empezamos!</span><br /><span style="font-family: 'comic sans ms', sans-serif;"></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Producto Final: Campaña de Concienciación <strong>"Especies de Doñana: Tesoros que Proteger"</strong></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">El producto final de la situación de aprendizaje "Salvar Doñana" es un trabajo digital colaborativo elaborado en la plataforma Canva, en el que tendréis que diseñar una campaña de concienciación (esta vez en formato digital y mucho más completa) titulada "Especies de Doñana: Tesoros que Proteger". Este recurso estará orientado a sensibilizar a vuestras familias y al resto de la comunidad educativa sobre la importancia de conservar las especies autóctonas de este parque natural y su entorno y de contribuir a su conservación con acciones que favorezcan el cuidado medioambiental.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Algunos aspectos a tener en cuenta:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Todos y todas debéis tener acceso desde vuestro perfil al trabajo que se está realizando en grupo en Canva...no me vale que se haga desde un solo perfil. Una vez seleccionada la plantilla, debéis incluirme a mí también porque así os puedo ir haciendo aportaciones mientras trabajáis.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Si seleccionáis un modelo de plantilla en Canvas, aseguraos de que dicho modelo está indicado para leer la información en el móvil.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Podéis añadir fotos y texto pero recordad que el <strong>texto tiene que ser corto, claro y directo</strong>. Podéis añadir tantas páginas como queráis <strong>no superando un máximo de ocho</strong>.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Muchas gracias por vuestro trabajo. Entre todos y todas podemos hacer de este mundo un lugar mejor y de nuestro entorno Doñana un lugar más verde, sano y amable para los seres vivos que lo habitan.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/hand-5554820_1280.jpg" alt="" width="146" height="146" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/canva.jpg\" alt=\"Canva\" title=\"Canva\" width=\"210\" height=\"210\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Querido alumnado:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Ya estamos llegando al final de nuestro trabajo sobre el entorno Doñana por eso vamos a pedirte un último esfuerzo...¿estás preparado/a?</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"> ¡Empezamos!</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Producto Final: Campaña de Concienciación <strong>\"Especies de Doñana: Tesoros que Proteger\"</strong></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">El producto final de la situación de aprendizaje \"Salvar Doñana\" es un trabajo digital colaborativo elaborado en la plataforma Canva, en el que tendréis que diseñar una campaña de concienciación (esta vez en formato digital y mucho más completa) titulada \"Especies de Doñana: Tesoros que Proteger\". Este recurso estará orientado a sensibilizar a vuestras familias y al resto de la comunidad educativa sobre la importancia de conservar las especies autóctonas de este parque natural y su entorno y de contribuir a su conservación con acciones que favorezcan el cuidado medioambiental.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Algunos aspectos a tener en cuenta:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Todos y todas debéis tener acceso desde vuestro perfil al trabajo que se está realizando en grupo en Canva...no me vale que se haga desde un solo perfil. Una vez seleccionada la plantilla, debéis incluirme a mí también porque así os puedo ir haciendo aportaciones mientras trabajáis.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Si seleccionáis un modelo de plantilla en Canvas, aseguraos de que dicho modelo está indicado para leer la información en el móvil.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Podéis añadir fotos y texto pero recordad que el <strong>texto tiene que ser corto, claro y directo</strong>. Podéis añadir tantas páginas como queráis <strong>no superando un máximo de ocho</strong>.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Muchas gracias por vuestro trabajo. Entre todos y todas podemos hacer de este mundo un lugar mejor y de nuestro entorno Doñana un lugar más verde, sano y amable para los seres vivos que lo habitan.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/hand-5554820_1280.jpg\" alt=\"\" width=\"146\" height=\"146\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7i7ib5-zc0o4d64w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-zc0o4d64w</odePageId>
+      <odeBlockId>block-mo7i7ib6-wh9grjwc6</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA SDA 3</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-zc0o4d64w</odePageId>
+          <odeBlockId>block-mo7i7ib6-wh9grjwc6</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-v65qp0nk1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="{{context_path}}/content/resources/GUIA DIDACTICA.pdf" target="_blank" download="GUIA DIDACTICA.pdf">GUÍA DIDÁCTICA.pdf</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"{{context_path}}/content/resources/GUIA DIDACTICA.pdf\" target=\"_blank\" download=\"GUIA DIDACTICA.pdf\">GUÍA DIDÁCTICA.pdf</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7i7ib5-zc0o4d64w</odePageId>
+      <odeBlockId>block-mo7i7ib6-cnroaauh2</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7i7ib5-zc0o4d64w</odePageId>
+          <odeBlockId>block-mo7i7ib6-cnroaauh2</odeBlockId>
+          <odeIdeviceId>idevice-mo7i7ib6-yodzwezik</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>SALVAR DOÑANA</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Vivimos en el ecosistema de Doñana. Para su cuidado y preservación debemos adoptar aptitudes de respeto hacia los seres vivos que lo integran y adquirir conciencia medioambiental. Difundir todo lo que aprendamos a otras personas de nuestro contexto, nos va a permitir trabajar de forma conjunta en pro de la preservación del planeta. Esta SDA está vinculada a los ODS 13 (acción climática) y 15 (vida terrestre).</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Hortensia Aranda Labrador</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
